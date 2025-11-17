@@ -3,7 +3,7 @@
 Ingénieur Réseaux, Systèmes & Sécurité  
 Spécialisé 4G/5G, Linux, cybersécurité et automatisation.
 
-- 🔭 Actuellement : Ingénieur Réseau & Système chez SFR
+- 🔭 Actuellement : Ingénieur Réseau & Système
 - 🎯 Intérêts : 4G/5G Core, sécurité réseau, observabilité, CI/CD
 - 🌐 Portfolio : [portfolio-touati.vercel.app](https://portfolio-touati.vercel.app/)
 - 📍 Île-de-France, France
